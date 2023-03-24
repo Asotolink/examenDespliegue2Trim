@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+@media (max-width: 1366px) {
+    .container {
+        max-width: 1366px;
+        margin: auto;
+
+    }
+
+    main {
+        padding: 30px;
+    }
+
+    .navbar {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 25px;
+        background-color: #D9D9D9;
+    }
+
+    .enlaces {
+        display: flex;
+        justify-content: space-around;
+        width: 40%;
+        padding-right: 25px;
+    }
+
+    .enlaces>li {
+        list-style: none;
+    }
+
+    .logoNavbar {}
+
+    .textC1 {
+        padding: 0px 15px;
+    }
+
+    .textC1::before {
+        content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolor sunt molestiae id error blanditiis dolores similique harum deserunt ex itaque corrupti, Aliquam porro, fuga cupiditate velit tenetur eum distinctio possimus voluptatem officia voluptates, magni recusandae omnis, totam quam labore cum incidunt vel sed voluptas rem ipsam nobis? Placeat expedita repellendus, natus veniam quo perferendis maxime exercitationem, autem ipsum, suscipit enim soluta ! Harum ad libero, eius incidunt impedit odit cupiditate illo doloremque consequuntur. Doloribus vel deserunt magni facilis esse, est saepe doloremque nulla nostrum, tempore odit aliquid iusto quo dolore necessitatibus cupiditate aspernatur, consectetur tenetur repellendus ! Ipsa enim impedit eligendi illo ex nemo nihil doloremque quia at quasi magnam aspernatur, rerum facere. Et voluptatum necessitatibus commodi fuga,molestiae praesentium quisquam ipsam id eius consequuntur aliquid magni cupiditate sequi doloremque deserunt tempora provident aliquam natus, voluptas enim amet quaerat minus libero? Maxime soluta voluptatibus tenetur dicta non numquam qui veniam laborum odio nostrum aliquid sunt ut quam alias fuga maiores, necessitatibus fugit dolore. Facilis repellendus eum, ipsum suscipit rem similique nisi quisquam, qui nam fugit quasi minima iste reprehenderit, aut consequatur ea magnam? Ad qui ducimus consectetur et amet quos neque nihil, ut quam magnam alias, nemo doloremque nesciunt odio praesentium ! Dignissimos quam, sed laborum quas harum sunt incidunt illum labore accusamus cum quibusdam. Suscipit laudantium blanditiis excepturi architecto saepe corrupti minus est perspiciatis? Ab unde at recusandae pariatur suscipit. Odio provident soluta officia veritatis,facere nisi illum nam nostrum culpa nihil dignissimos earum quibusdam ! Praesentium, recusandae. Odit ducimus vel veritatis optio ex dolor porro suscipit numquam sint? Sit corrupti temporibus recusandae libero eligendi, voluptates explicabo consectetur dicta cum, natus iste molestias illo numquam nihil voluptatem. Labore eligendi veritatis, quo harum eos illo facere voluptatem. Quisquam ipsum neque commodi saepe, possimus, eveniet beatae animi temporibus laboriosam aspernatur, aut vitae numquam placeat qui dolorum distinctio porro ipsam quo delectus iusto ratione sequi deleniti eius ! Hic doloribus nam atque non? Ea voluptatum natus hic cum veniam fugit dolores distinctio est. Quisquam laboriosam, quia placeat nobis nesciunt minima obcaecati error fugiat nulla sequi, illum eveniet saepe eos eaque assumenda rerum quas rem officiis vel veniam nihil possimus dicta? Hic odit, rerum,natus eligendi excepturi obcaecati consectetur at impedit iure odio recusandae corporis ad necessitatibus molestias. Aliquid aspernatur cupiditate quisquam quia vitae a ipsa illo at dolores saepe possimus, libero tempora non illum. Error eos enim eligendi deleniti iusto modi quod perferendis fugiat mollitia unde aperiam qui laborum, minus rerum quasi, voluptatum recusandae aut. Doloremque consectetur veniam dolore et quod rem id dignissimos a, aut ipsum sapiente praesentium,repellendus fugit doloribus modi fuga adipisci ratione itaque tempore corporis at provident assumenda delectus. Unde quo veniam voluptates perferendis tempore, quibusdam exercitationem vero totam rem dolorem dignissimos eligendi iusto corporis eius veritatis quae rerum, earum accusamus ad debitis dolores dolor autem beatae. Eos praesentium suscipit nisi, minus iste debitis esse deleniti. Soluta amet, placeat ea reiciendis sunt pariatur corrupti ullam, rerum a, repellat esse. Sequi esse qui suscipit praesentium molestiae, fuga est, sint, incidunt cum cupiditate illum?";
+
+    }
+
+    .primerComponente {
+        display: flex;
+    }
+
+    .segundoComponente {
+        padding: 5% 15%;
+    }
+
+    .segundoComponente>figure {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .textoC2 {
+        margin-top: 40px;
+    }
+
+    .textoC2::before {
+        content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid doloribus voluptatibus dolore, quibusdam possimus corporis explicabo enim temporibus quisquam quam fugit magni at? Quos magnam, sed qui, maxime necessitatibus temporibus non placeat architecto officia quod illum quasi minima rem quam sequi ea soluta neque laboriosam maiores, inventore accusamus impedit. Doloremque libero voluptatem laudantium culpa a quis. Praesentium minima doloremque explicabo error quisquam eius provident, officiis nisi perspiciatis, consectetur repellat ex optio, rerum corporis nulla reiciendis ullam? Aperiam consectetur molestiae fuga odio eos numquam quod rem, esse qui quas iste, vel eveniet modi obcaecati quo! Soluta dolor aut dolorum sequi mollitia architecto perspiciatis, provident id autem laborum molestiae nihil, deleniti assumenda odit delectus, iusto sunt! Iure expedita, distinctio repudiandae doloremque nisi sed minima eius mollitia aut? Nemo corrupti distinctio sequi ipsum sed, vero minus est delectus quae quod quidem, voluptate consequuntur enim fuga odio quasi! Illum quasi excepturi, sit atque nesciunt tempore expedita facere eos quos consequatur necessitatibus corrupti qui praesentium totam vitae ipsam facilis fugit temporibus iure! Vero a esse iure necessitatibus reprehenderit, commodi corporis hic quis neque quaerat sequi numquam placeat dolore vel, labore molestias culpa dolorem odit pariatur harum at quas inventore! Similique quam voluptas, sunt soluta culpa non repellat asperiores, id at exercitationem, provident quas? Illum quasi ullam exercitationem officiis at deleniti iusto, molestiae eos ut ab quisquam inventore voluptatem perspiciatis ducimus numquam sint? Minima expedita esse iusto incidunt itaque? Vitae similique nesciunt, quidem asperiores eos architecto repellat quod officiis, aut minima sequi, praesentium facere error sapiente!";
+    }
+
+    .foto1C2 {
+        width: 100%;
+    }
+
+
+    /* FOOTER */
+    .footer {
+        display: flex;
+        flex-direction: column;
+        padding: 20px auto;
+        text-align: center;
+        height: 490px;
+        justify-content: space-around;
+        background-color: #D9D9D9;
+        align-items: center;
+    }
+
+    .footer>img {
+
+        width: 144px;
+        height: 106px;
+    }
+
+    .rrss {
+        display: flex;
+        width: 50%;
+        justify-content: space-around;
+
+    }
+
+    .enlaces-empresa {
+        display: flex;
+        width: 90%;
+        justify-content: space-around;
+
+
+    }
+
+
+    .footer-links {
+        display: flex;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #D9D9D9;
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    .enlaces {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        padding: 0;
+    }
+
+    .enlaces>li {
+        list-style: none;
+        padding: 10px;
+    }
+
+    .foto1C1 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .foto2C1 {
+        width: 100%;
+        height: 100%;
+    }
+
+    main {
+        padding: 0;
+    }
+
+    .textC1 {
+        padding: 0;
+        width: 33%;
+        text-align: center;
+        padding: 10px 5px;
+    }
+
+    .textC1::before {
+        content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis harum dolorem quod hic repudiandae repellendus rem! Illo suscipit quis aut dolor magnam fugit aliquam optio harum, laborum consequuntur ducimus incidunt!";
+    }
+
+    .textoC2::before {
+        content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid doloribus voluptatibus dolore, quibusdam possimus corporis explicabo enim temporibus quisquam quam fugit magni at? Quos magnam, sed qui, maxime necessitatibus temporibus non placeat architecto officia quod illum quasi minima rem quam sequi ea soluta neque laboriosam maiores, inventore accusamus ";
+    }
+
+    /* FOOTER */
+    .footer {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        text-align: center;
+        height: auto;
+        background-color: #D9D9D9;
+        align-items: center;
+    }
+
+    .footer>img {
+
+        width: 144px;
+        height: 106px;
+    }
+
+    .rrss {
+        display: flex;
+        width: 50%;
+        justify-content: space-around;
+        padding-top: 10px;
+    }
+    .rrss > img {
+        padding: 6px;
+    }
+
+    .enlaces-empresa {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+
+
+    .footer-links {
+        display: flex;
+    }
+}
